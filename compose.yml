@@ -1,0 +1,9 @@
+---
+version: "3"
+services:
+  webapp1:
+    image: lahari713/AWS:swiggy
+    ports:
+      - "3000"
+    deploy:
+     
